@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2020-07-18T08:50:50.248Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" version="13.4.6" etag="DZhrbAae7Ncx4170G2Ua" type="github"><diagram id="BfqaBiZL-n5Sax2nSkjr">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-07-18T09:19:21.208Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="TonA3zFGoS_1_ME9ko-U" version="13.4.6" type="github">
+  <diagram id="BfqaBiZL-n5Sax2nSkjr" name="Page-1">
+    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nuy63_WmEaV-j40DSkcE-21" value="Agent" style="html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=dialogflow_enterprise_edition" vertex="1" parent="1">
+          <mxGeometry x="430" y="155" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nuy63_WmEaV-j40DSkcE-23" value="&lt;div style=&quot;text-align: justify&quot;&gt;Zamiar :&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(158 , 158 , 158) ; text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;&amp;nbsp;Pokoje&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="140" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="nuy63_WmEaV-j40DSkcE-24" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;Wyodrębnione:&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;color: rgb(158, 158, 158); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;font color=&quot;#3333ff&quot; style=&quot;font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;$typ_pokoju&lt;br&gt;&lt;/font&gt;&lt;br style=&quot;color: rgb(158, 158, 158); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;font color=&quot;#ff3399&quot; style=&quot;font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;$data&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="140" width="91" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="nuy63_WmEaV-j40DSkcE-26" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="240" as="sourcePoint" />
+            <mxPoint x="440" y="218.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nuy63_WmEaV-j40DSkcE-27" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="160" as="sourcePoint" />
+            <mxPoint x="440" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nuy63_WmEaV-j40DSkcE-30" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="200" as="sourcePoint" />
+            <mxPoint x="440" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nuy63_WmEaV-j40DSkcE-31" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="194.5" as="sourcePoint" />
+            <mxPoint x="720" y="194.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nuy63_WmEaV-j40DSkcE-32" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="194.5" as="sourcePoint" />
+            <mxPoint x="570" y="194.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nuy63_WmEaV-j40DSkcE-33" value="Jakiego typu&amp;nbsp; macie &lt;font color=&quot;#00cc00&quot;&gt;pokoje&lt;/font&gt; ?&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="150" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nuy63_WmEaV-j40DSkcE-34" value="Czy sa wolne pokoje &lt;font color=&quot;#3333ff&quot;&gt;wielosobowe&lt;/font&gt; ?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="187.5" width="210" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="nuy63_WmEaV-j40DSkcE-35" value="Potrzebuje zamówić &lt;font color=&quot;#00cc00&quot;&gt;pokój&lt;/font&gt; &lt;font color=&quot;#3333ff&quot;&gt;dwuosobowy&lt;/font&gt; na &lt;font color=&quot;#ff0000&quot;&gt;Sobote&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="235" width="230" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
